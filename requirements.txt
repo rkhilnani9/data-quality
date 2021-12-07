@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+loguru
+typer
+
+transformers==2.11.0
+tokenizers==0.8.0rc1
+tensorflow==2.1.0
